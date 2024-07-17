@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project analyses the Uniform Singapore Energy Price (USEP) in Singapore's National Electricity Market (NEM). It focuses on constructing analytical models to estimate USEP prices based on merit order and demand data, which is crucial for optimising bidding strategies for market participants, including Battery Energy Storage Systems (BESS).
+This project analyses the Uniform Singapore Energy Price (USEP) in Singapore's National Electricity Market (NEM). It focuses on the pricing of energy using merit order and analyses the differences with the actual market price. Understanding the basic concept is crucial to understanding the bidding strategies of market participants.
 
 ## Features
 
